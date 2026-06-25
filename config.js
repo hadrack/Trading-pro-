@@ -5,7 +5,7 @@ const CONFIG = {
                     ZG_CHAIN_RPC: 'http://localhost:8545',
                         ENV: 'development',
                             FEATURES: {
-                                    MOCK_MODE: true,
+                              MOCK_MODE: true,
                                             AI_ADVISOR: true,
                                                     WALLET_CONNECT: true,
                                                             ZG_INTEGRATION: false
